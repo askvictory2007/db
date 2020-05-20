@@ -2,7 +2,7 @@
     "news": [
     {
         "id": 1,
-        "imageUri":"https://resize1.indiatvnews.com/en/resize/newbucket/715_-/2020/03/facebook-3d-images-1583129263.jpg",
+        "img":"https://resize1.indiatvnews.com/en/resize/newbucket/715_-/2020/03/facebook-3d-images-1583129263.jpg",
         "title":"Facebook Testing Tabs on App to Make Organising News Feed Easier",
         "describe":"Facebook is working on making it easier for users to browse the News Feed by implementing a tabbed version of it. Currently in the prototype phase, it will give users an option to sort the feed into ‘Most Relevant’, ‘Most Recent’, and ‘Already Seen’. "
     },
