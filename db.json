@@ -1,4 +1,37 @@
- {
-  "username":"shasha@thinkbig.com",
-  "password":"shasha"
- }
+{
+  "home": [
+    { "id": "1", 
+     "list":"https://m.media-amazon.com/images/M/MV5BN2M1MjM0NTUtODlhZS00MWEwLWE3ZWEtZmMzOTNlMmM1MTYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
+     "title":"Kannum Kannum Kollaiyadithaal",
+     "description":"Siddharth and Kallis never seem to be short on money. However, when they meet the women of their dreams, they are pushed into reconsidering their career choices.",
+     "release":"28-February-2020",
+     "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/Kannum%20Kannum%20Kollaiyadithaal%20-%20Second%20Official%20Trailer%20-%20Dulquer%20S%2C%20Ritu%20V%2C%20Rakshan%2C%20Niranjani%20A.mp4?alt=media&token=d997d4b8-7a92-4771-9ffc-8a6c573dbb31"
+    },
+    { "id": "2",
+     "list": "https://images-na.ssl-images-amazon.com/images/I/91GAl33xHbL._RI_.jpg",
+     "title":"Dia",
+     "description":"A young, introverted girl's routine life is brightened when she falls for Rohith, one of her fellow students. However, being introverted and trying to express her love becomes the biggest challenge of her life.",
+     "release":"7-February-2020",
+     "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/Dia%20-%20%E0%B2%A6%E0%B2%BF%E0%B2%AF%E0%B2%BE%20-%20New%202K%20Trailer%202%20-%20Pruthvi%20Ambaar%20-%20Dheekshith%20-%20Kushi%20-%20Sri%20Swarnalatha%20Productions.mp4?alt=media&token=a74ed6b2-0803-49a4-924f-e8330212c1ba"
+    },
+    { "id": "3", 
+     "list": "https://th.thgim.com/entertainment/movies/55rd5h/article30443533.ece/alternates/FREE_435/master",
+      "title":"Master",
+     "description":"Master is an Indian Tamil-language action-thriller film written and directed by Lokesh Kanagaraj, and produced by Xavier Britto, under the banner XB Film Creators.",
+     "release":"23-May-2020",
+     "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/MASTER%20-%20Official%20Trailer%20-%20Thalapathy%20Vijay%20-%20Vijay%20Sethupathi%20-%20Lokesh%20Kangaraj.mp4?alt=media&token=b247f699-bd7a-46ea-8c2b-c289b0110b45"
+    },
+    { "id": "4", 
+     "list": "https://upload.wikimedia.org/wikipedia/en/4/4c/Love_Aaj_Kal_film_poster.jpg",
+      "title":"Love Aaj Kal",
+     "description":"Two couples, separated by time, deal with society, familial pressure, internal dilemmas of prioritising career or love and the ever-changing dynamics of relationships.",
+     "release":"14-February-2020",
+     "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/Love%20Aaj%20Kal%20-%20Official%20Trailer%20-%20Kartik%2C%20Sara%2C%20Randeep%2C%20Arushi%20-%20Imtiaz%20Ali%20-%20Dinesh%20Vijan%20-%2014%20Feb.mp4?alt=media&token=f4e18a94-353a-4bbe-ac72-e56f8796d821"
+    },
+    {
+      "id": "5",
+     "emailAddress": "",
+     "passWord": ""
+    }
+  ]
+}
